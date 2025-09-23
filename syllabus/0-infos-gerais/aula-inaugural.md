@@ -104,7 +104,8 @@ source para Substrate feito em Dart financiado pela Web3 Foundation.
 ---
 
 ## Links Importantes
-- Grupo WhatsApp:<!-- .element: class="fragment" --> https://chat.whatsapp.com/Lvc1H1CriWD39YbSlyI15g?mode=ems_copy_t<!-- .element: class="fragment" -->
+- Grupo WhatsApp: https://chat.whatsapp.com/Lvc1H1CriWD39YbSlyI15g
+- Material do Curso: https://github.com/curso-polkadot-sdk
 
 ---
 
