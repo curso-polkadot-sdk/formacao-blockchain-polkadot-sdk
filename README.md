@@ -10,3 +10,4 @@
 # Criptografia
 ## Aulas Gravadas
 - [Aula 1 (22/09/25)](https://1drv.ms/v/c/db90a94c0055c917/EZE4WsbMajlAvRv1IvR25vQBxOKC4YjOc4TrOvEeyyFbCQ?e=RilhUn)
+- [Aula 2 (23/09/25)](⁠https://1drv.ms/v/c/db90a94c0055c917/EfV9fkk3jhhOhmIH7LrWhgEBbweOlBbxObbPluK6m8mDew?e=xXJePQ)
