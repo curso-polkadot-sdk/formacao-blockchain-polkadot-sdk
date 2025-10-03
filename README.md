@@ -10,6 +10,20 @@
 
 ---
 
+## 🗂️ Mapa do Curso
+
+> Acesse diretamente os materiais e recursos de cada módulo:
+
+- [📄 Informações Gerais](./syllabus/0-infos-gerais/aula-inaugural.md)
+- [🧱 Introdução à Blockchain](./syllabus/1-intro-blockchain)
+- [🔐 Fundamentos de Criptografia](./syllabus/2-criptografia)
+- [📜 Smart Contracts com ink!](./syllabus/3-smart-contracts)
+- [🦀 Programação com Rust](./syllabus/4-rust)
+- [⚙️ WebAssembly (Wasm)](./syllabus/5-wasm)
+- [🕸️ Substrate / Polkadot SDK](./syllabus/6-polkadot-sdk)
+
+---
+
 ## 🧱 Módulo 1: Introdução à Blockchain
 
 ### 🎥 Aulas Gravadas
@@ -33,6 +47,38 @@
 | Aula 4 | 26/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ERjxn8uoPV5Jhw11y9mOsgkBum0G1qV18eh-YiIWxbdcNQ?e=aFfrBA) |
 | Aula 5 | 29/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EXPDHMv0ZupKiAhU9nHZj6cBBpplCRZRhHpQwW5x6oiylA?e=degUqd) |
 | Aula 6 | 30/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/Efjbw3sGsWdDjQtvUhYaztkByKG7b56WKPEgCl8H0J7ykA?e=CxBHBr) |
+
+---
+
+## 🦀 Módulo 3: Programação com Rust
+
+### 🎥 Aulas Gravadas
+| Aula | Data       | Link |
+|------|------------|------|
+
+---
+
+## 📜 Módulo 4: Smart Contracts com ink!
+
+### 🎥 Aulas Gravadas
+| Aula | Data       | Link |
+|------|------------|------|
+
+---
+
+## ⚙️ Módulo 5: WebAssembly (Wasm)
+
+### 🎥 Aulas Gravadas
+| Aula | Data       | Link |
+|------|------------|------|
+
+---
+
+## 🕸️ Módulo 6: Substrate / Polkadot SDK
+
+### 🎥 Aulas Gravadas
+| Aula | Data       | Link |
+|------|------------|------|
 
 ---
 
