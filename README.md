@@ -76,15 +76,23 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 
 ---
 
-## 📜 Módulo 4: Smart Contracts com ink!
-
-### 🎥 Aulas Gravadas
-| Aula | Data       | Link |
-|------|------------|------|
+### 🎥 Exemplos de Projetos Web3 e Projeto Final
+| Data       | Link |
+|------------|------|
+| 31/10/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EaVoR42ohA9GouCR6fO_-gsBv4MBlEGSzGkov57Jogfc1A?e=8bQIFd) |
 
 ---
 
-## ⚙️ Módulo 5: WebAssembly (Wasm)
+## ⚙️ Módulo 4: WebAssembly (Wasm)
+
+### 🎥 Aulas Gravadas
+|      Aula       |    Data    | Link |
+|-----------------|------------|-------------------------------------------------------------------------------------------------------------|
+| 01 - Introdução | 03/11/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ESr108mQOtFLvwrfsF6QpMcBscttZFCWxi-G7B0UIMitSQ?e=nGqGSp) |
+
+---
+
+## 📜 Módulo 5: Smart Contracts com ink!
 
 ### 🎥 Aulas Gravadas
 | Aula | Data       | Link |
