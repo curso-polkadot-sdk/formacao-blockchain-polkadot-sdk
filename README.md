@@ -83,12 +83,13 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 
 ---
 
-## ⚙️ Módulo 4: WebAssembly (Wasm)
+## ⚙️ Módulo 4: Rust + WebAssembly (Wasm)
 
 ### 🎥 Aulas Gravadas
-|      Aula       |    Data    | Link |
-|-----------------|------------|-------------------------------------------------------------------------------------------------------------|
-| 01 - Introdução | 03/11/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ESr108mQOtFLvwrfsF6QpMcBscttZFCWxi-G7B0UIMitSQ?e=nGqGSp) |
+|       Aula        |    Data    | Link |
+|-------------------|------------|-------------------------------------------------------------------------------------------------------------|
+| 01 - Introdução   | 03/11/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ESr108mQOtFLvwrfsF6QpMcBscttZFCWxi-G7B0UIMitSQ?e=nGqGSp) |
+| 02 - Wasm Runtime | 04/11/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EQnQLiI-MxlEk_p8RZ0-20kBC0aVxIBe3OV4qjh7b7cs9Q?e=QR4Fq1) |
 
 ---
 
