@@ -76,6 +76,24 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 
 ---
 
+## 🎥 Exemplos de Projetos Web3 e Projeto Final
+| Data       | Link |
+|------------|------|
+| 31/10/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EaVoR42ohA9GouCR6fO_-gsBv4MBlEGSzGkov57Jogfc1A?e=8bQIFd) |
+
+---
+
+## ⚙️ Módulo 4: Rust + WebAssembly (Wasm)
+
+### 🎥 Aulas Gravadas
+|       Aula        |    Data    | Link |
+|-------------------|------------|-------------------------------------------------------------------------------------------------------------|
+| 01 - Introdução   | 03/11/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ESr108mQOtFLvwrfsF6QpMcBscttZFCWxi-G7B0UIMitSQ?e=nGqGSp) |
+| 02 - Wasm Runtime | 04/11/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EQnQLiI-MxlEk_p8RZ0-20kBC0aVxIBe3OV4qjh7b7cs9Q?e=QR4Fq1) |
+
+---
+
+
 ## 📜 Módulo 4: Smart Contracts com ink!
 
 ### 🎥 Aulas Gravadas
@@ -86,13 +104,8 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 | Aula  3 | 17/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/vsmldeon0mxx5jk92xojb/SmartAula3.mp4?rlkey=5e781jpy0v2xwphg28ev9n17b&dl=0) |
 | Aula  4 | 18/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/8qswxitjzhoclqxu6gi3z/SmartAula4.mp4?rlkey=gnxzmogn74kion58xnu8gc900&dl=0) |
 
----
-
-## ⚙️ Módulo 5: WebAssembly (Wasm)
-
-### 🎥 Aulas Gravadas
-| Aula | Data       | Link |
-|------|------------|------|
+### 📖 Materiais
+Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/ALlEx6iwhvaW-RDpabBbID4?rlkey=rjmsoi5j2nhec5thhjtcsrk5y&dl=0)
 
 ---
 
