@@ -79,8 +79,12 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 ## 📜 Módulo 4: Smart Contracts com ink!
 
 ### 🎥 Aulas Gravadas
-| Aula | Data       | Link |
-|------|------------|------|
+| Aula  | Data       | Link |
+|-------|------------|------|
+| Aula 1 | 13/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/88vrmsjgcpkvdw1xq72bo/SmartAula1.mp4?rlkey=el12wufzabvu5mob6bft58r34&dl=0) |
+| Aula  2 | 14/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/nd74ocus628xqvffpcqcz/SmartAula2.mp4?rlkey=0j14y3ig3ma8icy5fddbsrnov&dl=0) |
+| Aula  3 | 17/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/vsmldeon0mxx5jk92xojb/SmartAula3.mp4?rlkey=5e781jpy0v2xwphg28ev9n17b&dl=0) |
+| Aula  4 | 18/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/8qswxitjzhoclqxu6gi3z/SmartAula4.mp4?rlkey=gnxzmogn74kion58xnu8gc900&dl=0) |
 
 ---
 
