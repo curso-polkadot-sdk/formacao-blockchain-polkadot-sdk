@@ -24,33 +24,25 @@
 
 ---
 
-## 🧱 Módulo 1: Introdução à Blockchain
+## 🧱 Módulo 1: Introdução à Blockchain e Criptografia
 
 ### 🎥 Aulas Gravadas
-| Aula | Data       | Link |
-|------|------------|------|
-| Aula 1 | 15/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
-| Aula 2 | 16/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
-| Aula 3 | 18/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCRtlkyg3efgsXER?e=qdYgkt) |
-| Aula 4 | 19/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCWroiZuc3q3hVwl?e=gnrlTx) |
+|  Aula   | Data       | Link |
+|---------|------------|------|
+| Aula 1  | 15/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
+| Aula 2  | 16/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
+| Aula 3  | 18/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCRtlkyg3efgsXER?e=qdYgkt) |
+| Aula 4  | 19/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCWroiZuc3q3hVwl?e=gnrlTx) |
+| Aula 5  | 22/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EZE4WsbMajlAvRv1IvR25vQBxOKC4YjOc4TrOvEeyyFbCQ?e=RilhUn) |
+| Aula 6  | 23/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EfV9fkk3jhhOhmIH7LrWhgEBlF_vJJNDx7VB_ime6MqP-g?e=mGoDMF) |
+| Aula 7  | 25/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EQztHa6wStdCgyqnOQ3X2hgBXKGAwgcVopC48_4RQzHy8w?e=9v4JPy) |
+| Aula 8  | 26/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ERjxn8uoPV5Jhw11y9mOsgkBum0G1qV18eh-YiIWxbdcNQ?e=aFfrBA) |
+| Aula 9  | 29/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EXPDHMv0ZupKiAhU9nHZj6cBBpplCRZRhHpQwW5x6oiylA?e=degUqd) |
+| Aula 10 | 30/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/Efjbw3sGsWdDjQtvUhYaztkByKG7b56WKPEgCl8H0J7ykA?e=CxBHBr) |
 
 ---
 
-## 🔐 Módulo 2: Fundamentos de Criptografia
-
-### 🎥 Aulas Gravadas
-| Aula | Data       | Link |
-|------|------------|------|
-| Aula 1 | 22/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EZE4WsbMajlAvRv1IvR25vQBxOKC4YjOc4TrOvEeyyFbCQ?e=RilhUn) |
-| Aula 2 | 23/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EfV9fkk3jhhOhmIH7LrWhgEBlF_vJJNDx7VB_ime6MqP-g?e=mGoDMF) |
-| Aula 3 | 25/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EQztHa6wStdCgyqnOQ3X2hgBXKGAwgcVopC48_4RQzHy8w?e=9v4JPy) |
-| Aula 4 | 26/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ERjxn8uoPV5Jhw11y9mOsgkBum0G1qV18eh-YiIWxbdcNQ?e=aFfrBA) |
-| Aula 5 | 29/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EXPDHMv0ZupKiAhU9nHZj6cBBpplCRZRhHpQwW5x6oiylA?e=degUqd) |
-| Aula 6 | 30/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/Efjbw3sGsWdDjQtvUhYaztkByKG7b56WKPEgCl8H0J7ykA?e=CxBHBr) |
-
----
-
-## 🦀 Módulo 3: Programação com Rust
+## 🦀 Módulo 2: Programação com Rust
 
 ### 🎥 Aulas Gravadas
 | Aula  | Data       | Link |
@@ -83,7 +75,7 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 
 ---
 
-## ⚙️ Módulo 4: Rust + WebAssembly (Wasm)
+## ⚙️ Módulo 3: Rust + WebAssembly (Wasm)
 
 ### 🎥 Aulas Gravadas
 |       Aula        |    Data    | Link |
@@ -93,27 +85,34 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 
 ---
 
-
 ## 📜 Módulo 4: Smart Contracts com ink!
 
 ### 🎥 Aulas Gravadas
 | Aula  | Data       | Link |
 |-------|------------|------|
 | Aula 1 | 13/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/88vrmsjgcpkvdw1xq72bo/SmartAula1.mp4?rlkey=el12wufzabvu5mob6bft58r34&dl=0) |
-| Aula  2 | 14/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/nd74ocus628xqvffpcqcz/SmartAula2.mp4?rlkey=0j14y3ig3ma8icy5fddbsrnov&dl=0) |
-| Aula  3 | 17/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/vsmldeon0mxx5jk92xojb/SmartAula3.mp4?rlkey=5e781jpy0v2xwphg28ev9n17b&dl=0) |
-| Aula  4 | 18/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/8qswxitjzhoclqxu6gi3z/SmartAula4.mp4?rlkey=gnxzmogn74kion58xnu8gc900&dl=0) |
+| Aula 2 | 14/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/nd74ocus628xqvffpcqcz/SmartAula2.mp4?rlkey=0j14y3ig3ma8icy5fddbsrnov&dl=0) |
+| Aula 3 | 17/11/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/vsmldeon0mxx5jk92xojb/SmartAula3.mp4?rlkey=5e781jpy0v2xwphg28ev9n17b&dl=0) |
+| Aula 4 | 18/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/8qswxitjzhoclqxu6gi3z/SmartAula4.mp4?rlkey=gnxzmogn74kion58xnu8gc900&dl=0) |
 
 ### 📖 Materiais
 Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/ALlEx6iwhvaW-RDpabBbID4?rlkey=rjmsoi5j2nhec5thhjtcsrk5y&dl=0)
 
 ---
 
-## 🕸️ Módulo 6: Substrate / Polkadot SDK
+## 🕸️ Módulo 5: Substrate / Polkadot SDK
 
 ### 🎥 Aulas Gravadas
 | Aula | Data       | Link |
 |------|------------|------|
+| Aula 1  | 01/12/2025 | https://drive.google.com/file/d/1r1bGpTYj6kobW1O2IgDGXlF8j5kvk85c/view?usp=sharing |
+| Aula 2  | 02/12/2025 | https://drive.google.com/file/d/1Inj08Hl21_CIrj75AqZYRVLd5bwazu0N/view?usp=sharing |
+| Aula 3  | 04/12/2025 | https://drive.google.com/file/d/1mW90pBTa6Xdc93dKRefqR4eQbqInCENm/view?usp=sharing |
+| Aula 4  | 05/12/2025 | https://drive.google.com/file/d/1Y-4vg4fpXQLjXngjXQd_gSssCC428KSB/view?usp=sharing |
+| Aula 5  | 08/12/2025 | https://drive.google.com/file/d/1MUe9Tq2TY_ofDS1iBIxY5GcAShPOncC8/view?usp=sharing |
+| Aula 6 |  09/12/2025 | https://drive.google.com/file/d/1IrM3X77YxSdEgx1wU7Dc2lIAMAfUoHM3/view?usp=sharing |
+| Aula 7 |  11/12/2025 | https://drive.google.com/file/d/1uA_pjsZWDTryn2ja_Aamdap5UrH3-P0V/view?usp=sharing |
+| Aula 8 |  12/12/2025 | https://drive.google.com/file/d/1uA_pjsZWDTryn2ja_Aamdap5UrH3-P0V/view?usp=sharing |
 
 ---
 
