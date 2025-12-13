@@ -29,15 +29,15 @@
 ### 🎥 Aulas Gravadas
 |  Aula   | Data       | Link |
 |---------|------------|------|
-| Aula 1  | 15/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
-| Aula 2  | 16/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
-| Aula 3  | 18/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCRtlkyg3efgsXER?e=qdYgkt) |
-| Aula 4  | 19/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCWroiZuc3q3hVwl?e=gnrlTx) |
-| Aula 5  | 22/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EZE4WsbMajlAvRv1IvR25vQBxOKC4YjOc4TrOvEeyyFbCQ?e=RilhUn) |
-| Aula 6  | 23/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EfV9fkk3jhhOhmIH7LrWhgEBlF_vJJNDx7VB_ime6MqP-g?e=mGoDMF) |
-| Aula 7  | 25/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EQztHa6wStdCgyqnOQ3X2hgBXKGAwgcVopC48_4RQzHy8w?e=9v4JPy) |
-| Aula 8  | 26/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ERjxn8uoPV5Jhw11y9mOsgkBum0G1qV18eh-YiIWxbdcNQ?e=aFfrBA) |
-| Aula 9  | 29/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EXPDHMv0ZupKiAhU9nHZj6cBBpplCRZRhHpQwW5x6oiylA?e=degUqd) |
+| Aula  1 | 15/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrB95I2dfWrarBDAD?e=6AZzEj) |
+| Aula  2 | 16/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCNHZatZe-WoAGCw?e=1MODS2) |
+| Aula  3 | 18/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCRtlkyg3efgsXER?e=qdYgkt) |
+| Aula  4 | 19/09/2025 | [▶️ Assistir](https://1drv.ms/v/s!AhfJVQBMqZDbrCWroiZuc3q3hVwl?e=gnrlTx) |
+| Aula  5 | 22/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EZE4WsbMajlAvRv1IvR25vQBxOKC4YjOc4TrOvEeyyFbCQ?e=RilhUn) |
+| Aula  6 | 23/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EfV9fkk3jhhOhmIH7LrWhgEBlF_vJJNDx7VB_ime6MqP-g?e=mGoDMF) |
+| Aula  7 | 25/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EQztHa6wStdCgyqnOQ3X2hgBXKGAwgcVopC48_4RQzHy8w?e=9v4JPy) |
+| Aula  8 | 26/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/ERjxn8uoPV5Jhw11y9mOsgkBum0G1qV18eh-YiIWxbdcNQ?e=aFfrBA) |
+| Aula  9 | 29/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/EXPDHMv0ZupKiAhU9nHZj6cBBpplCRZRhHpQwW5x6oiylA?e=degUqd) |
 | Aula 10 | 30/09/2025 | [▶️ Assistir](https://1drv.ms/v/c/db90a94c0055c917/Efjbw3sGsWdDjQtvUhYaztkByKG7b56WKPEgCl8H0J7ykA?e=CxBHBr) |
 
 ---
@@ -47,7 +47,7 @@
 ### 🎥 Aulas Gravadas
 | Aula  | Data       | Link |
 |-------|------------|------|
-| Aula 1 | 01/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/c5zw8cb58tarl50w13tlk/RustAula1.mp4?rlkey=4t4kn1e1ihct7d84dmj6qi32k&dl=0) |
+| Aula  1 | 01/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/c5zw8cb58tarl50w13tlk/RustAula1.mp4?rlkey=4t4kn1e1ihct7d84dmj6qi32k&dl=0) |
 | Aula  2 | 02/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/vdgivfj46x00c675jyhiy/RustAula2.mp4?rlkey=y859gyb5f295xcgyoojdwd5uv&dl=0) |
 | Aula  3 | 06/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/0xmt8vwuz69of8geq95vf/RustAula3.mp4?rlkey=7xs8okmgoc5r0w382wmgre5kl&dl=0) |
 | Aula  4 | 07/10/2025 | [▶️ Assistir](https://www.dropbox.com/scl/fi/6lujk2ui82l9htj1vf55f/RustAula4.mp4?rlkey=m5firf99hx74fkhgvl3mqmlaf&dl=0) |
@@ -105,14 +105,14 @@ Link: [Pasta de materiais](https://www.dropbox.com/scl/fo/149vbg8atfj76kv94x2g7/
 ### 🎥 Aulas Gravadas
 | Aula | Data       | Link |
 |------|------------|------|
-| Aula 1  | 01/12/2025 | https://drive.google.com/file/d/1r1bGpTYj6kobW1O2IgDGXlF8j5kvk85c/view?usp=sharing |
-| Aula 2  | 02/12/2025 | https://drive.google.com/file/d/1Inj08Hl21_CIrj75AqZYRVLd5bwazu0N/view?usp=sharing |
-| Aula 3  | 04/12/2025 | https://drive.google.com/file/d/1mW90pBTa6Xdc93dKRefqR4eQbqInCENm/view?usp=sharing |
-| Aula 4  | 05/12/2025 | https://drive.google.com/file/d/1Y-4vg4fpXQLjXngjXQd_gSssCC428KSB/view?usp=sharing |
-| Aula 5  | 08/12/2025 | https://drive.google.com/file/d/1MUe9Tq2TY_ofDS1iBIxY5GcAShPOncC8/view?usp=sharing |
-| Aula 6 |  09/12/2025 | https://drive.google.com/file/d/1IrM3X77YxSdEgx1wU7Dc2lIAMAfUoHM3/view?usp=sharing |
-| Aula 7 |  11/12/2025 | https://drive.google.com/file/d/1uA_pjsZWDTryn2ja_Aamdap5UrH3-P0V/view?usp=sharing |
-| Aula 8 |  12/12/2025 | https://drive.google.com/file/d/1uA_pjsZWDTryn2ja_Aamdap5UrH3-P0V/view?usp=sharing |
+| Aula  1 | 01/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1r1bGpTYj6kobW1O2IgDGXlF8j5kvk85c/view?usp=sharing) |
+| Aula  2 | 02/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1Inj08Hl21_CIrj75AqZYRVLd5bwazu0N/view?usp=sharing) |
+| Aula  3 | 04/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1mW90pBTa6Xdc93dKRefqR4eQbqInCENm/view?usp=sharing) |
+| Aula  4 | 05/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1Y-4vg4fpXQLjXngjXQd_gSssCC428KSB/view?usp=sharing) |
+| Aula  5 | 08/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1MUe9Tq2TY_ofDS1iBIxY5GcAShPOncC8/view?usp=sharing) |
+| Aula  6 | 09/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1IrM3X77YxSdEgx1wU7Dc2lIAMAfUoHM3/view?usp=sharing) |
+| Aula  7 | 11/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1uA_pjsZWDTryn2ja_Aamdap5UrH3-P0V/view?usp=sharing) |
+| Aula  8 | 12/12/2025 | [▶️ Assistir](https://drive.google.com/file/d/1uA_pjsZWDTryn2ja_Aamdap5UrH3-P0V/view?usp=sharing) |
 
 ---
 
